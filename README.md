@@ -23,8 +23,8 @@ Prototyping: Interactive click-through prototypes
 This project is focused purely on UI/UX design. The entire layout, navigation, and booking experience were conceptualized and created using Figma and showcased on Behance.
 It demonstrates expertise in creating interactive, modern, and aesthetically pleasing designs tailored for a real-world hall reservation system.
 
-🔗 Live Preview / Behance Link
-
+🔗 Live Preview
+https://www.figma.com/proto/UMW5yROGnIi2O96ubEaVWC/NEXLAB?node-id=131-1149&t=zIDiJUGBD3nUHzp9-0&scaling=min-zoom&content-scaling=fixed&page-id=130%3A83&starting-point-node-id=131%3A1149
 🔗 View on Behance
  https://www.behance.net/gallery/229531137/Nexlab
 
